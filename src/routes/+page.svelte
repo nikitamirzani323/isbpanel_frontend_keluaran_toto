@@ -378,13 +378,31 @@
     <aside class="w-full">
         <section class="card w-full bg-base-300 shadow-xl text-neutral-content rounded-md mb-2">
             <section class="card-body p-2 mb-2">
-                <h1 class="card-title border-b-2 border-primary-focus p-2 font-bold text-xs lg:text-sm ">BERITA TOTO</h1>
-                <p class="">
-                    Murlok.io is a steadfast companion, aiding in unlocking your gaming potential in World of Warcraft Dragonflight 10.1.5. Utilize our PvP and PvE guides, built from the strategies of top-rated players, to optimize your character builds for Solo Shuffle, 2v2, 3v3, RBG, and Mythic+.
-                    Updated every 12 hours, our guides are committed to keeping you at the cutting edge of the game, enhancing your gaming prowess and lifting your experience to the next level.
-                </p>
+                <h1 class="card-title border-b-2 border-primary-focus p-2 font-bold text-xs lg:text-sm ">BERITA TERBARU</h1>
+                <ul>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                    <li>Prediksi Syair Sgp Hari Ini 17 Juli 2023</li>
+                </ul>
             </section>
         </section>
-        
+        <section class="card w-full bg-base-300 shadow-xl text-neutral-content rounded-md mb-2">
+            <section class="card-body p-2 mb-2">
+                <h1 class="card-title border-b-2 border-primary-focus p-2 font-bold text-xs lg:text-sm ">LIVEDRAW TOTO</h1>
+                <ul>
+                    <li>Livedraw Togel Toto macau 00:01</li>
+                    <li>Livedraw Togel Shizuoka day</li>
+                    <li>Livedraw Togel Cambodia</li>
+                    <li>Livedraw Togel Bullseye</li>
+                    <li>Livedraw Togel Danang 4d - 1300</li>
+                    <li>Livedraw Togel Taiwan</li>
+                    <li>Livedraw Togel Gongju4d night</li>
+                </ul>
+            </section>
+        </section>
     </aside>
 </article>
